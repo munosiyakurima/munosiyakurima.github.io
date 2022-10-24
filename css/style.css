@@ -16,8 +16,8 @@ body {
   padding: 0;
   font-size: 1em;
   font-family: 'Timeless-Normal';
-  background-color: #363636;
-  color: #075d75;
+  background-color: black;
+  color: #eddeab;
   box-sizing: border-box;
 }
 
@@ -27,21 +27,21 @@ body {
 
 h1 {
   text-transform: uppercase;
-  color: #075d75;
+  color: #a88924;
 }
 
 h2 {
   text-transform: capitalize;
-  color: #075d75;
+  color: #eddeab;
 }
 
 h3 {
   text-transform: uppercase;
-  color: #075d75;
+  color: #d4af37;
 }
 
 a {
-  color: #075d75;
+  color: #eddeab;
   text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ a:hover {
   width: 100%;
   margin: 0;
   padding: 0 2vw 2vh 2vw;
-  border-bottom: 1px solid #023847;
+  border-bottom: 1px solid #544512;
   text-align: center;
 }
 
@@ -102,7 +102,7 @@ a:hover {
     padding: 0;
     font-size: 3em;
     z-index: 10;
-    color: #075d75;
+    color: #d3ad36;
   }
 
   #splash h3 {
@@ -127,7 +127,7 @@ a:hover {
 
   #focus_mobile {
     display: block;
-    border-bottom: 1px solid #023847;
+    border-bottom: 1px solid #544512;
   }
 
   #focus_desktop {
@@ -175,13 +175,13 @@ a:hover {
     justify-content: space-evenly;
     overflow: hidden;
     z-index: 100;
-    border-bottom: 1px solid #023847;
-    background-color:  #363636;
+    border-bottom: 1px solid #544512;
+    background-color:  #001a1a;
   }
 
   .nav_desktop a {
     padding: 2vh 2vw;
-    color: #050505;
+    color: #a88924;
     text-transform: uppercase;
     letter-spacing: 0.1em;
   }
@@ -234,7 +234,7 @@ a:hover {
     font-size: 6em;
     letter-spacing: 0.3em;
     z-index: 10;
-    color: #075d75;
+    color: #d3ad36;
   }
 
   #splash h3 {
@@ -299,6 +299,6 @@ a:hover {
     text-align: center;
     padding: 0;
     text-transform: uppercase;
-    color: #075d75;
+    color: #a88924;
   }
 }
