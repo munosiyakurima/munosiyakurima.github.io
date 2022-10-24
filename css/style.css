@@ -27,7 +27,7 @@ body {
 
 h1 {
   text-transform: uppercase;
-  color: #a88924;
+  color: #160c9c;
 }
 
 h2 {
@@ -181,7 +181,7 @@ a:hover {
 
   .nav_desktop a {
     padding: 2vh 2vw;
-    color: #a88924;
+    color: #160c9c;
     text-transform: uppercase;
     letter-spacing: 0.1em;
   }
@@ -299,6 +299,6 @@ a:hover {
     text-align: center;
     padding: 0;
     text-transform: uppercase;
-    color: #a88924;
+    color: #160c9c;
   }
 }
