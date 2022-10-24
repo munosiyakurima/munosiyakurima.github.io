@@ -88,7 +88,7 @@ a:hover {
 
   #splash {
     height: 75vh;
-    background-image: url("../images/bg-mobile.jpg");
+    background-image: url("../images/datasoccer.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 0;
@@ -220,7 +220,7 @@ a:hover {
 
   #splash {
     height: 100vh;
-    background-image: url("../images/bg.jpg");
+    background-image: url("../images/datasoccer.jpeg");
     background-size: cover;
     z-index: 0;
     border-bottom: 1px solid black;
