@@ -17,7 +17,7 @@ body {
   font-size: 1em;
   font-family: 'Timeless-Normal';
   background-color: black;
-  color: #eddeab;
+  color: gray;
   box-sizing: border-box;
 }
 
@@ -27,18 +27,18 @@ body {
 
 h1 {
   text-transform: uppercase;
-  color: #FFFF;
+  color: #02B6Be;
   ;
 }
 
 h2 {
   text-transform: capitalize;
-  color: #eddeab;
+  color: #02B6Be;
 }
 
 h3 {
   text-transform: uppercase;
-  color: #FFFF;
+  color: #02B6Be;
 }
 
 a {
@@ -103,7 +103,7 @@ a:hover {
     padding: 0;
     font-size: 3em;
     z-index: 10;
-    color: #FFFF;
+    color: #02B6Be;
   }
 
   #splash h3 {
@@ -235,7 +235,7 @@ a:hover {
     font-size: 6em;
     letter-spacing: 0.3em;
     z-index: 10;
-    color: #FFFF;
+    color: #02B6Be;
   }
 
   #splash h3 {
@@ -300,6 +300,6 @@ a:hover {
     text-align: center;
     padding: 0;
     text-transform: uppercase;
-    color:#022AA4;
+    color: #02B6Be;
   }
 }
