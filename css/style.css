@@ -27,7 +27,8 @@ body {
 
 h1 {
   text-transform: uppercase;
-  color: #a88924;
+  color: #022AA4;
+  ;
 }
 
 h2 {
@@ -37,7 +38,7 @@ h2 {
 
 h3 {
   text-transform: uppercase;
-  color: #d4af37;
+  color: #022AA4;
 }
 
 a {
@@ -102,7 +103,7 @@ a:hover {
     padding: 0;
     font-size: 3em;
     z-index: 10;
-    color: #d3ad36;
+    color: #022AA4;
   }
 
   #splash h3 {
@@ -181,7 +182,7 @@ a:hover {
 
   .nav_desktop a {
     padding: 2vh 2vw;
-    color: #a88924;
+    color: #022AA4;
     text-transform: uppercase;
     letter-spacing: 0.1em;
   }
@@ -234,7 +235,7 @@ a:hover {
     font-size: 6em;
     letter-spacing: 0.3em;
     z-index: 10;
-    color: #d3ad36;
+    color: #022AA4;
   }
 
   #splash h3 {
@@ -299,6 +300,6 @@ a:hover {
     text-align: center;
     padding: 0;
     text-transform: uppercase;
-    color: #a88924;
+    color:#022AA4;
   }
 }
